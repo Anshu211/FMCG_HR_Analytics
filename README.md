@@ -1,8 +1,7 @@
 # FMCG_HR_Analytics
 Title: HR Analytics: Unveiling Insights for Employee Performance and Equality.
 (Project PDF: https://drive.google.com/file/d/1vBwRbby_oUXgncqPi-xgzZ5S1pBDP-n0/view?usp=sharing)
-(Datasets: emp_details: https://docs.google.com/spreadsheets/d/1XXOZxMz03njvMdjlVdhJ7_N7t9BDY_b-aYh3S7Z6LFY/edit?usp=sharing
-           emp_performance: https://docs.google.com/spreadsheets/d/1_7mI42sRcXwiaJ14wgne02-CQSwV9JJltwR-_VXMbcA/edit?usp=sharing )
+
 
 Introduction:
 This project focuses on conducting an in-depth HR analysis to gain valuable insights into employee performance, salary disparity, and overall employee satisfaction within the fast-moving consumer goods (FMCG) industry. By analyzing various factors, including gender, department, and years of service, we aim to identify areas of improvement, promote fairness and equality, and enhance employee engagement.
